@@ -1,0 +1,7 @@
+client_id,client_name,industry,country,contract_type,start_date
+C001,Solara Retail,Retail,Spain,Recurring,2024-01-10
+C002,Northwind Logistics,Logistics,Spain,Recurring,2024-03-18
+C003,BluePeak Media,Marketing,Spain,Project,2024-06-02
+C004,Iberia Health Partners,Healthcare,Spain,Recurring,2024-09-14
+C005,Atlas Legal Advisors,Legal,Spain,Project,2025-01-20
+C006,NovaTech Systems,Technology,Spain,Recurring,2025-02-07
