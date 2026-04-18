@@ -1,10 +1,10 @@
 # CashFlow Insight Dashboard
 
-`CashFlow Insight Dashboard` is a recruiter-friendly data analytics project built around a realistic business scenario: understanding how client revenue, invoice payments, expenses, and monthly cash flow affect a company's financial health.
+`CashFlow Insight Dashboard` is a data analytics project built around a realistic business scenario: understanding how client revenue, invoice payments, expenses, and monthly cash flow affect a company's financial health.
 
 ![Dashboard overview](docs/dashboard-overview.svg)
 
-This project is designed to support junior applications in:
+This project is designed to support simple applications in:
 
 - data analysis
 - business intelligence
@@ -69,7 +69,7 @@ python -m app.build_database
 ```
 
 This creates `cashflow_insight.db`, which can be used for SQL reporting and future BI extensions.
-By default, the SQLite file is created in your system temp folder to avoid OneDrive file-locking issues on Windows. You can override the location with the `CFI_DB_DIR` environment variable.
+By default, the SQLite file is created in your system temp folder to avoid OneDrive file-locking issues on Windows. One can override the location with the `CFI_DB_DIR` environment variable.
 
 ## Example SQL reporting areas
 
@@ -79,7 +79,7 @@ By default, the SQLite file is created in your system temp folder to avoid OneDr
 - expense breakdown by category
 - overdue invoice tracking
 
-See [sample_queries.sql](docs/sample_queries.sql) for recruiter-friendly reporting examples.
+See [sample_queries.sql](docs/sample_queries.sql) for reporting examples.
 
 ## Example insights from the demo data
 
@@ -96,29 +96,3 @@ See [sample_queries.sql](docs/sample_queries.sql) for recruiter-friendly reporti
 - Late payment analysis
 - Expense distribution by category
 - Monthly finance table for quick review
-
-## Why it is good for recruiters
-
-This is not only a dashboard. It shows business understanding, realistic financial reporting logic, clear data storytelling, clean Python project structure, and a reproducible SQLite reporting layer in one repository.
-
-## Portfolio talking points
-
-- Built a finance analytics dashboard with Python, Pandas, Streamlit, Plotly, and SQLite.
-- Modeled related datasets for clients, invoices, payments, and expenses.
-- Wrote reusable SQL queries for KPI reporting and trend analysis.
-- Combined business-domain knowledge with technical implementation and tests.
-- Designed the project so recruiters can understand the value in under a minute.
-
-## How to present this in interviews
-
-- Explain that the project simulates a real small-business finance reporting workflow.
-- Walk through how CSV data becomes a SQLite reporting layer and then a visual dashboard.
-- Highlight the difference between revenue invoiced and cash actually collected.
-- Show how late payment behavior and expense trends affect business decisions.
-
-## Next improvements
-
-- add SQL queries with SQLite or PostgreSQL
-- add CSV upload for new finance files
-- add forecasting for future cash flow
-- add cohort analysis for recurring clients
