@@ -1,13 +1,85 @@
 expense_id,expense_date,department,category,vendor,amount
-EXP-001,2026-01-08,Operations,Salaries,Internal Payroll,6200
-EXP-002,2026-01-15,Marketing,Advertising,Meta Ads,1450
-EXP-003,2026-01-23,IT,Software,Atlassian,390
-EXP-004,2026-02-05,Operations,Salaries,Internal Payroll,6200
-EXP-005,2026-02-09,Finance,Professional Services,Gestoria Madrid,780
-EXP-006,2026-02-16,IT,Cloud,Azure,960
-EXP-007,2026-03-03,Operations,Salaries,Internal Payroll,6200
-EXP-008,2026-03-11,Sales,Travel,Renfe,510
-EXP-009,2026-03-20,Marketing,Advertising,Google Ads,1720
-EXP-010,2026-04-04,Operations,Salaries,Internal Payroll,6200
-EXP-011,2026-04-10,IT,Hardware,PC Components,1350
-EXP-012,2026-04-14,Finance,Office,Staples,240
+EXP-0001,2024-01-05,People Ops,Salaries,Payroll Partners,18872.97
+EXP-0002,2024-01-06,Technology,Software,CloudDock,2858.6
+EXP-0003,2024-01-07,Growth,Marketing,SignalForge,2208.55
+EXP-0004,2024-01-08,Operations,Rent,Riverside Offices,5357.65
+EXP-0005,2024-01-09,Operations,Travel,SkyBridge Travel,1106.66
+EXP-0006,2024-01-10,Operations,Utilities,City Utilities,955.88
+EXP-0007,2024-01-11,Finance,Legal,Lumen Legal,1346.78
+EXP-0008,2024-02-12,People Ops,Salaries,Payroll Partners,18053.55
+EXP-0009,2024-02-13,Technology,Software,CloudDock,2937.07
+EXP-0010,2024-02-14,Growth,Marketing,SignalForge,2146.12
+EXP-0011,2024-02-15,Operations,Rent,Riverside Offices,5476.9
+EXP-0012,2024-02-16,Operations,Travel,SkyBridge Travel,1142.15
+EXP-0013,2024-02-17,Operations,Utilities,City Utilities,957.64
+EXP-0014,2024-02-18,Finance,Legal,Lumen Legal,1492.4
+EXP-0015,2024-03-19,People Ops,Salaries,Payroll Partners,19052.79
+EXP-0016,2024-03-20,Technology,Software,CloudDock,2911.19
+EXP-0017,2024-03-21,Growth,Marketing,SignalForge,2426.85
+EXP-0018,2024-03-22,Operations,Rent,Riverside Offices,5425.28
+EXP-0019,2024-03-23,Operations,Travel,SkyBridge Travel,1163.55
+EXP-0020,2024-03-24,Operations,Utilities,City Utilities,925.39
+EXP-0021,2024-03-25,Finance,Legal,Lumen Legal,1491.11
+EXP-0022,2024-04-26,People Ops,Salaries,Payroll Partners,19152.89
+EXP-0023,2024-04-26,Technology,Software,CloudDock,2868.41
+EXP-0024,2024-04-04,Growth,Marketing,SignalForge,2427.83
+EXP-0025,2024-04-05,Operations,Rent,Riverside Offices,5458.91
+EXP-0026,2024-04-06,Operations,Travel,SkyBridge Travel,1144.0
+EXP-0027,2024-04-07,Operations,Utilities,City Utilities,1000.37
+EXP-0028,2024-04-08,Finance,Legal,Lumen Legal,1438.69
+EXP-0029,2024-05-09,People Ops,Salaries,Payroll Partners,19773.21
+EXP-0030,2024-05-10,Technology,Software,CloudDock,3164.46
+EXP-0031,2024-05-11,Growth,Marketing,SignalForge,2276.39
+EXP-0032,2024-05-12,Operations,Rent,Riverside Offices,5923.3
+EXP-0033,2024-05-13,Operations,Travel,SkyBridge Travel,1237.04
+EXP-0034,2024-05-14,Operations,Utilities,City Utilities,1048.48
+EXP-0035,2024-05-15,Finance,Legal,Lumen Legal,1442.9
+EXP-0036,2024-06-16,People Ops,Salaries,Payroll Partners,20755.44
+EXP-0037,2024-06-17,Technology,Software,CloudDock,2907.42
+EXP-0038,2024-06-18,Growth,Marketing,SignalForge,2514.95
+EXP-0039,2024-06-19,Operations,Rent,Riverside Offices,5619.66
+EXP-0040,2024-06-20,Operations,Travel,SkyBridge Travel,1308.18
+EXP-0041,2024-06-21,Operations,Utilities,City Utilities,986.53
+EXP-0042,2024-06-22,Finance,Legal,Lumen Legal,1540.45
+EXP-0043,2024-07-23,People Ops,Salaries,Payroll Partners,24674.24
+EXP-0044,2024-07-24,Technology,Software,CloudDock,3992.34
+EXP-0045,2024-07-25,Growth,Marketing,SignalForge,4027.92
+EXP-0046,2024-07-26,Operations,Rent,Riverside Offices,6778.75
+EXP-0047,2024-07-26,Operations,Travel,SkyBridge Travel,1910.2
+EXP-0048,2024-07-04,Operations,Utilities,City Utilities,1304.81
+EXP-0049,2024-07-05,Finance,Legal,Lumen Legal,1903.29
+EXP-0050,2024-08-06,People Ops,Salaries,Payroll Partners,24335.21
+EXP-0051,2024-08-07,Technology,Software,CloudDock,3931.22
+EXP-0052,2024-08-08,Growth,Marketing,SignalForge,4136.04
+EXP-0053,2024-08-09,Operations,Rent,Riverside Offices,7191.12
+EXP-0054,2024-08-10,Operations,Travel,SkyBridge Travel,1938.78
+EXP-0055,2024-08-11,Operations,Utilities,City Utilities,1214.64
+EXP-0056,2024-08-12,Finance,Legal,Lumen Legal,1796.9
+EXP-0057,2024-09-13,People Ops,Salaries,Payroll Partners,26794.33
+EXP-0058,2024-09-14,Technology,Software,CloudDock,3636.43
+EXP-0059,2024-09-15,Growth,Marketing,SignalForge,4280.21
+EXP-0060,2024-09-16,Operations,Rent,Riverside Offices,7357.56
+EXP-0061,2024-09-17,Operations,Travel,SkyBridge Travel,1951.18
+EXP-0062,2024-09-18,Operations,Utilities,City Utilities,1349.82
+EXP-0063,2024-09-19,Finance,Legal,Lumen Legal,1913.0
+EXP-0064,2024-10-20,People Ops,Salaries,Payroll Partners,23064.89
+EXP-0065,2024-10-21,Technology,Software,CloudDock,3521.11
+EXP-0066,2024-10-22,Growth,Marketing,SignalForge,2557.72
+EXP-0067,2024-10-23,Operations,Rent,Riverside Offices,6297.88
+EXP-0068,2024-10-24,Operations,Travel,SkyBridge Travel,1303.39
+EXP-0069,2024-10-25,Operations,Utilities,City Utilities,1145.97
+EXP-0070,2024-10-26,Finance,Legal,Lumen Legal,1720.78
+EXP-0071,2024-11-26,People Ops,Salaries,Payroll Partners,24414.83
+EXP-0072,2024-11-04,Technology,Software,CloudDock,3857.46
+EXP-0073,2024-11-05,Growth,Marketing,SignalForge,2949.92
+EXP-0074,2024-11-06,Operations,Rent,Riverside Offices,6579.02
+EXP-0075,2024-11-07,Operations,Travel,SkyBridge Travel,1548.06
+EXP-0076,2024-11-08,Operations,Utilities,City Utilities,1258.67
+EXP-0077,2024-11-09,Finance,Legal,Lumen Legal,1822.5
+EXP-0078,2024-12-10,People Ops,Salaries,Payroll Partners,25753.88
+EXP-0079,2024-12-11,Technology,Software,CloudDock,3800.06
+EXP-0080,2024-12-12,Growth,Marketing,SignalForge,3189.27
+EXP-0081,2024-12-13,Operations,Rent,Riverside Offices,6556.98
+EXP-0082,2024-12-14,Operations,Travel,SkyBridge Travel,1465.12
+EXP-0083,2024-12-15,Operations,Utilities,City Utilities,1239.89
+EXP-0084,2024-12-16,Finance,Legal,Lumen Legal,1952.75
