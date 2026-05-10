@@ -1,6 +1,15 @@
 # CashFlow Insight Dashboard
 
+[![CI](https://github.com/delbandb/CashFlow-Insight-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/delbandb/CashFlow-Insight-Dashboard/actions/workflows/ci.yml)
+
 A finance analytics dashboard that turns synthetic invoice, payment, client, and expense data into a clear cash-flow story. The project is built to look like a small business intelligence workflow: generate demo finance data, load it into SQLite, analyze it with pandas and SQL, and present the results in Streamlit with Plotly charts.
+
+## Recruiter Quick Scan
+
+- Built a finance analytics workflow with Python, pandas, SQLite, Streamlit, and Plotly.
+- Modeled realistic business questions around invoiced revenue, collected cash, expenses, overdue invoices, and client risk.
+- Added SQL reporting queries, test coverage for KPI and forecast logic, and GitHub Actions CI.
+- Structured the project like a small production dashboard instead of a one-off notebook.
 
 ## Why I Built It
 
